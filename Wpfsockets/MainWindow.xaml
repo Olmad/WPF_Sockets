@@ -1,0 +1,15 @@
+﻿<Window x:Class="Wpfsockets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfsockets"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="158" Width="379">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="37,60,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox x:Name="Log" HorizontalAlignment="Left" Margin="142,26,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="108,0,0,0" VerticalAlignment="Center" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

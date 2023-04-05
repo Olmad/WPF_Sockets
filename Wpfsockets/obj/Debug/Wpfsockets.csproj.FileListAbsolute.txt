@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\bin\Debug\Wpfsockets.exe.config
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\bin\Debug\Wpfsockets.exe
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\bin\Debug\Wpfsockets.pdb
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets_MarkupCompile.cache
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets_MarkupCompile.lref
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.g.resources
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.Properties.Resources.resources
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.exe
+C:\Users\admin\source\repos\Wpfsockets\Wpfsockets\obj\Debug\Wpfsockets.pdb
